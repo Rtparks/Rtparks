@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rtparks
 - 👀 I’m interested in Information Technology, with a focus on data security and privacy.
-- 🌱 I’m currently learning A+ and Network +.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning CompTia A+ and Network +.
+- 💞️ I’m looking to collaborate on something cool.
 - 📫 How to reach me: rparks26@student.umgc.edu
 
 <!---
