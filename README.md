@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Technology, with a focus on data security and privacy.
 - 🌱 I’m currently learning A+ and Network +.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me at dx3x@pm.me
+- 📫 How to reach me: rparks26@student.umgc.edu
 
 <!---
 Rtparks/Rtparks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
